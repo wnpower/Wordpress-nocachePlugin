@@ -1,0 +1,3 @@
+- uses: montudor/action-zip@v0.1.0
+  with:
+    args: zip -qq -r ./add-nocache.zip ./add-nocache
